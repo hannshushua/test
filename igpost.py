@@ -9,6 +9,8 @@ import requests
 import pickle
 import os
 
+#Aimer is love~
+
 url = input(">>Type your link : ")
 
 #設定使用者的位置
